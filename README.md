@@ -22,8 +22,8 @@ The project requires the following Python libraries:
 Dataset Information
 The dataset includes the following features:
 
-Weight (kg): The weight of the individuals.
-Height (cm): The height of the individuals.
+1. Weight (kg): The weight of the individuals.
+2. Height (cm): The height of the individuals.
 
 ## Methodology
 ### Approach
